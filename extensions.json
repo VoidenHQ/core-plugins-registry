@@ -574,7 +574,7 @@
     "runnerAsset": "voiden-scripting-runner.js",
     "name": "Voiden Scripting",
     "description": "Pre-request and post-response JavaScript scripting for API requests with vd API access",
-    "version": "1.1.7",
+    "version": "1.1.8",
     "author": "Voiden Team",
     "priority": 25,
     "bundled": true,
